@@ -1,4 +1,4 @@
-const browser = typeof browser !== 'undefined' ? browser : chrome;
+// const browser = typeof browser !== 'undefined' ? browser : chrome;
 
 const DEFAULT_SETTINGS = {
   enabled: true,

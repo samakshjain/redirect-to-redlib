@@ -24,7 +24,7 @@ This extension respects your privacy. It only stores your preferences locally in
 ## Installation
 
 ### Firefox
-Install from [Firefox Add-ons](https://addons.mozilla.org/) (link coming soon)
+Install from [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/redirect-reddit-to-redlib/)
 
 ### Chrome
 Install from [Chrome Web Store](https://chrome.google.com/webstore) (link coming soon)
