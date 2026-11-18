@@ -48,7 +48,7 @@ Install from [Chrome Web Store](https://chrome.google.com/webstore) (link coming
 2. (Optional) Click the extension icon or visit the options page to configure your preferred Redlib instance
 3. Visit any Reddit link - you'll automatically be redirected to Redlib
 
-**Default Redlib instance:** https://redlib.perennialte.ch
+**Default Redlib instance:** https://safereddit.com
 
 ## Configuration
 

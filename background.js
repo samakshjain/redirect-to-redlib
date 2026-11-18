@@ -2,7 +2,7 @@
 
 const DEFAULT_SETTINGS = {
   enabled: true,
-  baseUrl: "https://redlib.perennialte.ch",
+  baseUrl: "https://safereddit.com",
   mode: "path-preserve"
 };
 

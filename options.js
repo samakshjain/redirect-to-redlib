@@ -1,6 +1,6 @@
 const DEFAULT_SETTINGS = {
   enabled: true,
-  baseUrl: "https://redlib.perennialte.ch",
+  baseUrl: "https://safereddit.com",
   mode: "path-preserve"
 };
 
@@ -58,7 +58,7 @@ async function save() {
   }
   
   if (!isValidUrl(baseUrl)) {
-    urlError.textContent = "Please enter a valid HTTPS URL (e.g., https://redlib.perennialte.ch)";
+    urlError.textContent = "Please enter a valid HTTPS URL (e.g., https://safereddit.com)";
     urlError.classList.add("show");
     return;
   }
