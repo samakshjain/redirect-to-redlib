@@ -1,12 +1,10 @@
-// web-ext configuration for the Firefox (Manifest V2) build.
-// The chrome/ directory is a separate Manifest V3 package and must not ship
-// inside the Firefox add-on.
+// web-ext configuration for the Firefox (Manifest V2) build in firefox/.
+// Run web-ext from the repository root: web-ext build --source-dir firefox
 export default {
+  artifactsDir: "web-ext-artifacts",
   ignoreFiles: [
-    "chrome",
-    "chrome/**",
-    "web-ext-artifacts/**",
     "*.crx",
-    "*.pem"
+    "*.pem",
+    "*.zip"
   ]
 };

@@ -30,3 +30,5 @@ Chrome Web Store developer dashboard.
 3. Click **Load unpacked** and select this `chrome/` directory
 4. Set a different instance on the options page, visit `https://reddit.com/r/firefox`,
    and confirm the redirect follows the new setting
+
+See [../README.md](../README.md) for the shared project overview.
