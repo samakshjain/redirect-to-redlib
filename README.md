@@ -69,7 +69,7 @@ unpacked**, and select the `chrome/` folder. See [chrome/README.md](chrome/READM
 │   ├── options.js
 │   ├── icons/
 │   └── README.md
-└── .web-ext-config.mjs      # web-ext settings for the Firefox build
+└── README.md                # this file
 ```
 
 ## Development
