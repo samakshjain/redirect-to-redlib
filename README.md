@@ -40,7 +40,10 @@ Install from [Chrome Web Store](https://chrome.google.com/webstore) (link coming
    - Open `chrome://extensions/`
    - Enable "Developer mode"
    - Click "Load unpacked"
-   - Select the extension folder
+   - Select the `chrome/` folder (the Chrome build lives there; see [chrome/README.md](chrome/README.md))
+
+> The repository root is the Firefox (Manifest V2) package. Chrome no longer loads
+> Manifest V2 extensions, so use the `chrome/` directory for Chrome.
 
 ## How to use
 
